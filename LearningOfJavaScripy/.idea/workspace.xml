@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68375840-5b63-4538-ac26-5c734b1bc390" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/事件.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/函数.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/变量.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/带参函数.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/循环.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/操作元素属性.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/数组.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/条件语句.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/注释.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/获取元素.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/hello.js" />
-    </list>
+    <list default="true" id="68375840-5b63-4538-ac26-5c734b1bc390" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -241,18 +228,17 @@
       <option name="presentableId" value="Default" />
       <updated>1508412440521</updated>
       <workItem from="1508412442440" duration="76000" />
-      <workItem from="1508412561662" duration="6960000" />
+      <workItem from="1508412561662" duration="7583000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7036000" />
+    <option name="totallyTimeSpent" value="7659000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="30" width="960" height="1050" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29479167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
