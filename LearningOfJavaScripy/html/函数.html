@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>函数</title>
+    <script type="text/javascript">
+        window.onload = function () {
+            var oBtn = document.getElementById('btn');
+            oBtn.onclick = myalert;
+            function myalert() {
+                alert('ok!!!!');
+            }
+
+            //直接将匿名函数赋值给绑定事件
+            var oBtn2 = document.getElementById('btn2');
+            oBtn2.onclick = function () {
+                alert('ok!!!!!!!');
+            }
+        }
+    </script>
+</head>
+<body>
+
+<input type="button" name="" value="弹出" id="btn">
+
+<input type="button" name="" value="弹出2" id="btn2">
+
+</body>
+</html>

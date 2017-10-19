@@ -1,0 +1,17 @@
+
+前端脚本语言：
+	JScript(微软) ActionScript(Adobe公司)
+
+JavaScripy学习
+
+应用：
+	表单验证
+	动态效果
+jQuery库(开发)
+
+前段三大块
+1.HTML，页面结构。
+2.CSS，页面表现。
+3.JavaScript：页面行为：动画效果，页面与用户的交互，页面的功能。
+
+

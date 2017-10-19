@@ -1,0 +1,14 @@
+gcc -shared linuxany.c -o linuxany.so，将生成一个linuxany.so文件 
+
+In [1]: import os
+
+In [2]: from ctypes import *
+
+In [3]: libtest = cdll.LoadLibrary(os.getcwd()+'/linuxany.so')
+
+In [4]: libtest.add(2,5)
+Out[4]: 7
+
+In [5]: libtest.display('Hello')
+H
+

@@ -1,0 +1,15 @@
+g++ -o libpycallclass.so -shared -fPIC pycallclass.cpp
+
+In [1]: import ctypes
+   ...: so = ctypes.cdll.LoadLibrary
+   ...: lib = so("./hello.so")
+   ...: print('display()')
+   ...: lib.display()
+   ...: print('display(100)')
+   ...: lib.display_int(100)
+   ...:
+display()
+First display
+display(100)
+Second display:100
+

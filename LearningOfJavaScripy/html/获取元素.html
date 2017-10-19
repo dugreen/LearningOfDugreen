@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>获取元素</title>
+    <script type="text/javascript">
+        //页面加载完毕后执行
+        window.onload = function () {
+            var oDiv = document.getElementById('div1');
+            oDiv.innerHTML = '<p>java</p>';
+        }
+    </script>
+</head>
+<body>
+
+<div id="div1">This is a div element.</div>
+
+
+<script type="javascript">
+    /*
+    如果把javascript写在元素的上面，就会出错，因为页面上从上往下加载执行的，
+    javascript去页面上获取元素div1的时候，元素div1还没有加载
+    */
+    //var oDiv = document.getElementById('div');
+</script>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>操作元素属性</title>
+    <script type="text/javascript">
+        window.onload = function () {
+            var oInput = document.getElementById('input');
+            var oLink = document.getElementById('link')
+            //读取属性值
+            var val = oInput.value;
+            var typ = oInput.type;
+            var nam = oInput.name;
+            var links = oLink.href;
+
+            var val1 = oInput.value;
+            //写属性
+            oLink.style.color = 'red';
+            oLink.style.fontSize = val;
+            oLink.style[val1] = '50px';
+        }
+    </script>
+</head>
+<body>
+
+<input type="text" name="setsize" id="input" value="20px">
+<a href="http://www.mryu.top" id="link">偶像</a>
+
+</body>
+</html>
