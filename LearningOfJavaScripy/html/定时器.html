@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>定时器</title>
+    <script type="text/javascript">
+        /*
+        定时器：
+        setTimeout  只执行一次的定时器
+        clearTimeout 关闭只执行一次的定时器
+        setInterval  反复执行的定时器
+        clearInterval 关闭反复执行的定时器
+        */
+        //var time1 = setTimeout(myalert,2000);
+        //var time2 = setInterval(myalert,2000);
+
+        /*
+        clearTimeout(time1);
+        clearInterval(time2);
+        */
+        //执行函数
+        function myalert() {
+            alert('ok!!');
+        }
+
+
+
+    </script>
+</head>
+<body>
+
+<script type="text/javascript">
+    //定时器制作倒计时
+    window.onload = function(){
+        var oDiv = document.getElementById('div1');
+        function timeleft(){
+            var now = new Date();
+            var future = new Date(2017,10,21,1,0,0);
+            var lefts = parseInt((future-now)/1000);
+            var day = parseInt(lefts/86400);
+            var hour = parseInt(lefts%86400/3600);
+            var min = parseInt(lefts%86400%3600/60);
+            var sec = lefts%60;
+            str = '距离2017年10月21日1点还剩下'+day+'天'+hour+'时'+min+'分'+sec+'秒';
+            oDiv.innerHTML = str;
+        }
+        timeleft();
+        setInterval(timeleft,1000);
+    }
+
+</script>
+<div id="div1"></div>
+
+</body>
+</html>
