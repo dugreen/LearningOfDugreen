@@ -1,0 +1,11 @@
+flask-login
+flask-openid
+flask-mail
+sqlalchemy-migrate
+guess_language
+flipflop
+coverage
+flask-whooshalchemy
+flask-wtf
+flask-babel
+flask-sqlalchemy

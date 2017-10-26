@@ -1,6 +1,9 @@
 # LearningOfDugreen
 Learning record sharing
 
+2017-10-23
+学习JS，祝自己生日快乐！
+
 2017-10-20
 上午浑浑噩噩，中午玩滑板翻车了，echo ‘难受’。晚上选修化学与生活，讲的真的很生活。准备下了课看一下js的视频教程。
 

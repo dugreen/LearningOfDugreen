@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>封闭函数</title>
+
+    <script type="text/javascript">
+        /*
+        function myalert() {
+            var str = 'helloworld';
+            alert(str);
+        }
+        */
+
+        //封闭函数的一般写法
+        (function () {
+            var str = 'hellooworld';
+            alert(str);
+        })();
+
+        //封闭函数的特殊写法
+        !function () {
+            var str = 'helloworld';
+            alert(str);
+        }();
+
+        ~function () {
+            var str = 'helloworld';
+            alert(str);
+        }();
+
+
+    </script>
+</head>
+<body>
+
+
+</body>
+</html>
