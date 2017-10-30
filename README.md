@@ -1,6 +1,14 @@
 ## LearningOfDugreen
 Learning record sharing
 
+
+### 2017-10-30
+* 白天上课，追非诚勿扰（来了一个男嘉宾，摩拜单车移动端的负责人，技术大牛，深深膜拜！！！）
+* 晚上学习JQuery
+
+### 2017-10-29
+* play the skateboard all day.
+
 ### 2017-10-27
 * 学习Flask基础。
 * 学习爬虫模块urllib2,urllib
