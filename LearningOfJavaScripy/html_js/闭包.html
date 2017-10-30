@@ -20,18 +20,22 @@
 //
 //        cc();
 
+        //闭包
         var cc = (function aa(b) {
             var a = 12;
 
             function bb() {
+                a++;
                 alert(a);
                 alert(b);
             }
 
             return bb;
-        })(58);
+        })(2);
 
-        //cc();
+        cc();
+        cc();
+        //12 2 12 2
 
 
         window.onload = function () {

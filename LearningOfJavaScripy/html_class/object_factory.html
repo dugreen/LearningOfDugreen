@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>工厂模式创建对象</title>
+    <script type="text/javascript">
+        function Person(name,age,job) {
+            var o = new Object();
+            //var o = {}
+            o.name = name;
+            o.age = age;
+            o.job = job;
+            o.showname = function () {
+                alert(this.name);
+            }
+
+            o.showage = function () {
+                alert(this.age);
+            }
+
+            o.showjob = function () {
+                alert(this.job);
+            }
+            return o;
+        }
+
+        var Tom = Person('dugreen',28,'python');
+        Tom.showname();
+    </script>
+</head>
+<body>
+
+</body>
+</html>

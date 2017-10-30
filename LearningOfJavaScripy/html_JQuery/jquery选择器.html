@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../js/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript">
+        //比onload()快
+        $(function () {
+            $('#div1').css({color:'pink'});
+
+            $('.box').css({fontSize:'30px'});
+
+            $('.list li').css({background:'green',color:'#666'});
+        });
+    </script>
+    <style type="text/css">
+        #div1{
+            color: #9C1A1C;
+        }
+
+        .box{
+            color: #3A7734;
+        }
+        .list{
+            /*background-color: #3B666B;*/
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="div1">这是一个div元素</div>
+
+    <div class="box">这是第二个div元素</div>
+
+    <ul class="list">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+        <li>6</li>
+        <li>7</li>
+        <li>8</li>
+        <li>9</li>
+    </ul>
+</body>
+</html>
