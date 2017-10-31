@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript" src="../js/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            //html() 取出或设置html内容
+            var $htm = $('#div1').html();
+
+            alert($htm);
+            //$('#div1').html('<span>python</span>');
+
+            //text() 取出或设置text内容
+            //var $htm = $('#div1').text();
+
+            //alert($htm);
+
+            alert($('#div1').css('fontSize'));
+        });
+
+    </script>
+</head>
+<body>
+
+    <div id="div1">java</div>
+
+</body>
+</html>
