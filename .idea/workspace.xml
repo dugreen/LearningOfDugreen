@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2eb8c0e0-3e06-42b5-8a4c-88168d9070ba" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery事件.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery加载.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery属性操作.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery样式.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery索引值.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonLearning/.idea/PythonLearning.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonLearning/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/PythonLearning/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/crawler/node.txt" afterPath="$PROJECT_DIR$/crawler/node.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearningOfJavaScripy/README.md" afterPath="$PROJECT_DIR$/LearningOfJavaScripy/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/leetCode/README.md" afterPath="$PROJECT_DIR$/leetCode/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="urllib2_urlopen.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler/urllib2/urllib2_urlopen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="闭包.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/html_js/闭包.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,21 +26,61 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery选择器.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery选择器.html">
+      <file leaf-file-name="jquery属性操作.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery属性操作.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="242">
+              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jquery属性操作.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery属性操作.html">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="44">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/node.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" column="2" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Longest_Substring_Without_Repeating_Characters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/Longest_Substring_Without_Repeating_Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="898">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetCode/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -86,16 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="506">
               <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery加载.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery加载.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -132,6 +147,11 @@
         <option value="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery事件.html" />
         <option value="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery索引值.html" />
         <option value="$PROJECT_DIR$/LearningOfJavaScripy/html_JQuery/jquery属性操作.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/LearningOfJavaScripy/README.md" />
+        <option value="$PROJECT_DIR$/crawler/node.txt" />
+        <option value="$PROJECT_DIR$/crawler/node.md" />
+        <option value="$PROJECT_DIR$/leetCode/README.md" />
       </list>
     </option>
   </component>
@@ -141,11 +161,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="3202" />
-    <option name="y" value="239" />
-    <option name="width" value="747" />
-    <option name="height" value="400" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-5" />
+    <option name="width" value="1920" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -192,6 +211,11 @@
               <item name="LearningOfJavaScripy" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearningOfDugreen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearningOfDugreen" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -228,18 +252,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1508313855882</updated>
-      <workItem from="1509363565124" duration="12085000" />
+      <workItem from="1509363565124" duration="13817000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12085000" />
+    <option name="totallyTimeSpent" value="13817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3202" y="239" width="747" height="400" extended-state="0" />
+    <frame x="0" y="-5" width="1920" height="1085" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31994644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -493,6 +517,46 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningOfJavaScripy/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/node.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="2" lean-forward="false" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/Longest_Substring_Without_Repeating_Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="898">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
