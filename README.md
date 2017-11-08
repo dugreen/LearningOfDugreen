@@ -1,6 +1,12 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-8
+学习linux系统编程
+
+### 2017-11-7
+学习Flask中数据库相关内容
+
 ### 2017-11-1 ~ 2017-11-6
 * 未学习新知识！
 
