@@ -1,0 +1,290 @@
+  PID TTY      STAT   TIME COMMAND
+    1 ?        Ss     0:16 /sbin/init splash
+    2 ?        S      0:00 [kthreadd]
+    4 ?        S<     0:00 [kworker/0:0H]
+    6 ?        S      0:01 [ksoftirqd/0]
+    7 ?        S      2:15 [rcu_sched]
+    8 ?        S      0:00 [rcu_bh]
+    9 ?        S      0:00 [migration/0]
+   10 ?        S<     0:00 [lru-add-drain]
+   11 ?        S      0:00 [watchdog/0]
+   12 ?        S      0:00 [cpuhp/0]
+   13 ?        S      0:00 [cpuhp/1]
+   14 ?        S      0:00 [watchdog/1]
+   15 ?        S      0:00 [migration/1]
+   16 ?        S      0:00 [ksoftirqd/1]
+   18 ?        S<     0:00 [kworker/1:0H]
+   19 ?        S      0:00 [cpuhp/2]
+   20 ?        S      0:00 [watchdog/2]
+   21 ?        S      0:00 [migration/2]
+   22 ?        S      0:00 [ksoftirqd/2]
+   24 ?        S<     0:00 [kworker/2:0H]
+   25 ?        S      0:00 [cpuhp/3]
+   26 ?        S      0:00 [watchdog/3]
+   27 ?        S      0:00 [migration/3]
+   28 ?        S      0:00 [ksoftirqd/3]
+   30 ?        S<     0:00 [kworker/3:0H]
+   31 ?        S      0:00 [cpuhp/4]
+   32 ?        S      0:00 [watchdog/4]
+   33 ?        S      0:00 [migration/4]
+   34 ?        S      0:00 [ksoftirqd/4]
+   36 ?        S<     0:00 [kworker/4:0H]
+   37 ?        S      0:00 [cpuhp/5]
+   38 ?        S      0:00 [watchdog/5]
+   39 ?        S      0:00 [migration/5]
+   40 ?        S      0:00 [ksoftirqd/5]
+   42 ?        S<     0:00 [kworker/5:0H]
+   43 ?        S      0:00 [cpuhp/6]
+   44 ?        S      0:00 [watchdog/6]
+   45 ?        S      0:00 [migration/6]
+   46 ?        S      0:00 [ksoftirqd/6]
+   48 ?        S<     0:00 [kworker/6:0H]
+   49 ?        S      0:00 [cpuhp/7]
+   50 ?        S      0:00 [watchdog/7]
+   51 ?        S      0:00 [migration/7]
+   52 ?        S      0:00 [ksoftirqd/7]
+   54 ?        S<     0:00 [kworker/7:0H]
+   55 ?        S      0:00 [kdevtmpfs]
+   56 ?        S<     0:00 [netns]
+   57 ?        S      0:00 [khungtaskd]
+   58 ?        S      0:00 [oom_reaper]
+   59 ?        S<     0:00 [writeback]
+   60 ?        S      0:00 [kcompactd0]
+   61 ?        SN     0:00 [ksmd]
+   62 ?        SN     0:14 [khugepaged]
+   63 ?        S<     0:00 [crypto]
+   64 ?        S<     0:00 [kintegrityd]
+   65 ?        S<     0:00 [bioset]
+   66 ?        S<     0:00 [kblockd]
+   75 ?        S<     0:00 [ata_sff]
+   76 ?        S<     0:00 [md]
+   77 ?        S<     0:00 [devfreq_wq]
+   78 ?        S<     0:00 [watchdogd]
+   81 ?        S      0:00 [kauditd]
+   82 ?        S      0:09 [kswapd0]
+   83 ?        S<     0:00 [vmstat]
+   84 ?        S<     0:00 [bioset]
+   85 ?        S      0:00 [ecryptfs-kthrea]
+  125 ?        S<     0:00 [kthrotld]
+  126 ?        S<     0:00 [acpi_thermal_pm]
+  127 ?        S<     0:00 [bioset]
+  128 ?        S<     0:00 [bioset]
+  129 ?        S<     0:00 [bioset]
+  130 ?        S<     0:00 [bioset]
+  131 ?        S<     0:00 [bioset]
+  132 ?        S<     0:00 [bioset]
+  133 ?        S<     0:00 [bioset]
+  134 ?        S<     0:00 [bioset]
+  138 ?        S<     0:00 [ipv6_addrconf]
+  161 ?        S<     0:00 [charger_manager]
+  213 ?        S      0:00 [scsi_eh_0]
+  214 ?        S<     0:00 [scsi_tmf_0]
+  215 ?        S      0:00 [scsi_eh_1]
+  217 ?        S<     0:00 [scsi_tmf_1]
+  218 ?        S      0:00 [scsi_eh_2]
+  219 ?        S<     0:00 [scsi_tmf_2]
+  220 ?        S      0:00 [scsi_eh_3]
+  221 ?        S<     0:00 [scsi_tmf_3]
+  222 ?        S      0:00 [scsi_eh_4]
+  223 ?        S<     0:00 [scsi_tmf_4]
+  228 ?        S      0:00 [i915/signal:0]
+  229 ?        S      0:00 [i915/signal:1]
+  230 ?        S      0:00 [i915/signal:2]
+  231 ?        S      0:00 [i915/signal:4]
+  232 ?        S<     0:00 [bioset]
+  233 ?        S<     0:00 [bioset]
+  236 ?        S<     0:00 [kworker/6:1H]
+  238 ?        S<     0:00 [kworker/1:1H]
+  240 ?        S<     0:00 [kworker/2:1H]
+  241 ?        S<     0:00 [kworker/4:1H]
+  242 ?        S<     0:00 [ttm_swap]
+  251 ?        S<     0:07 [kworker/0:1H]
+  260 ?        S<     0:00 [kworker/3:1H]
+  261 ?        S<     0:00 [kworker/7:1H]
+  265 ?        S      0:08 [jbd2/sda5-8]
+  266 ?        S<     0:00 [ext4-rsv-conver]
+  276 ?        S<     0:00 [kworker/5:1H]
+  304 ?        Ss     0:07 /lib/systemd/systemd-journald
+  324 ?        Ss     0:00 /lib/systemd/systemd-udevd
+  433 ?        S<     0:00 [asus_wireless_w]
+  437 ?        S<     0:00 [edac-poller]
+  462 ?        S<     0:00 [kmemstick]
+  463 ?        S<     0:00 [cfg80211]
+  469 ?        Ssl    0:00 /lib/systemd/systemd-timesyncd
+  759 ?        Ss     2:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+  763 ?        S<     0:00 [led_workqueue]
+  803 ?        Ssl    0:00 /usr/sbin/ModemManager
+  804 ?        Ss     0:31 /usr/sbin/acpid
+  806 ?        Ssl    0:16 /usr/sbin/thermald --no-daemon --dbus-enable
+  807 ?        Ssl    0:01 /usr/sbin/rsyslogd -n
+  809 ?        Ss     0:07 avahi-daemon: running [du.local]
+  810 ?        Ssl    0:02 /usr/bin/whoopsie -f
+  814 ?        Ss     0:00 /lib/systemd/systemd-logind
+  816 ?        Ssl    0:22 /usr/sbin/NetworkManager --no-daemon
+  820 ?        Ssl    0:36 /usr/lib/accountsservice/accounts-daemon
+  823 ?        Ss     0:00 /usr/sbin/cron -f
+  828 ?        Ssl    0:18 /usr/sbin/repowerd
+  832 ?        Ssl    0:09 /usr/lib/snapd/snapd
+  869 ?        Ss     0:10 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+  980 ?        Ssl    0:03 /usr/lib/upower/upowerd
+  988 ?        Ssl    0:40 /usr/lib/policykit-1/polkitd --no-debug
+ 1002 ?        S      0:00 avahi-daemon: chroot helper
+ 1029 ?        Ss     0:00 /usr/sbin/sshd -D
+ 1033 ?        Ss     0:20 /lib/systemd/systemd-resolved
+ 1085 ?        Ssl    1:35 /usr/sbin/mysqld
+ 1119 ?        SLsl   0:06 /usr/sbin/lightdm
+ 1129 tty7     Ssl+ 149:20 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+ 1143 tty1     Ss+    0:00 /sbin/agetty --noclear tty1 linux
+ 1176 ?        Ss     0:04 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+ 1327 ?        SNsl   0:01 /usr/lib/rtkit/rtkit-daemon
+ 1332 ?        Ss     0:00 /usr/lib/bluetooth/bluetoothd
+ 1333 ?        Ssl    0:00 /usr/lib/colord/colord
+ 1359 ?        Sl     0:00 lightdm --session-child 12 19
+ 1361 ?        S<     0:00 [krfcommd]
+ 1402 ?        Ss     0:04 /lib/systemd/systemd --user
+ 1403 ?        S      0:00 (sd-pam)
+ 1410 ?        SLl    0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+ 1420 ?        Ss     0:00 /bin/sh /usr/lib/gnome-session/run-systemd-session ubuntu-session.target
+ 1435 ?        Ss     8:23 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation
+ 1501 ?        Ss     0:00 /usr/bin/ssh-agent /usr/bin/sogou-session /usr/bin/im-launch /usr/lib/gnome-session/run-systemd-session ubuntu-session.target
+ 1505 ?        Sl     0:47 /usr/bin/fcitx
+ 1524 ?        Ss     0:06 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+ 1529 ?        SN     0:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-DU7x7TfnxI,guid=79fb4fe74dd925bfa279770259f69bf5 1524
+ 1583 ?        Ss     0:00 /usr/sbin/cupsd -l
+ 1584 ?        Ssl    0:01 /usr/sbin/cups-browsed
+ 1585 ?        Sl     0:15 /usr/lib/x86_64-linux-gnu/notify-osd
+ 1622 ?        Ssl    0:00 /usr/lib/gvfs/gvfsd
+ 1628 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+ 1648 ?        S      0:00 systemctl --user start --wait ubuntu-session.target
+ 1669 ?        Ssl    0:11 /usr/lib/unity-settings-daemon/unity-settings-daemon
+ 1671 ?        Ssl    0:11 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+ 1673 ?        Ssl    0:12 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+ 1675 ?        Ssl    8:53 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+ 1676 ?        Ssl    0:03 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+ 1677 ?        Ssl    0:17 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+ 1678 ?        Ssl    0:01 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+ 1679 ?        Ssl    0:03 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+ 1680 ?        Ssl    2:22 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+ 1681 ?        Ssl    0:01 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+ 1682 ?        Ssl    0:01 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+ 1685 ?        Ssl    0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+ 1710 ?        Ssl    0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+ 1768 ?        Sl     0:00 /usr/lib/dconf/dconf-service
+ 1786 ?        Sl    69:52 /usr/bin/pulseaudio --start --log-target=syslog
+ 1791 ?        Ssl    0:00 /usr/lib/evolution/evolution-source-registry
+ 1802 ?        Sl     0:00 /usr/bin/python3 /usr/bin/libertined --cache-output
+ 1807 ?        S      0:02 syndaemon -i 1.0 -t -K -R
+ 1809 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/unity-greeter-session-broadcast/unity-greeter-session-broadcast-service
+ 1843 ?        Sl     0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+ 1855 ?        S      0:01 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+ 1866 ?        Sl     0:06 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+ 1872 ?        SLl    0:20 /usr/bin/gnome-software --gapplication-service
+ 1873 ?        Sl     0:03 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+ 1875 ?        Sl     0:47 nm-applet
+ 1876 ?        Sl     0:03 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+ 1881 ?        Sl     0:24 /usr/bin/wallch --none
+ 1882 ?        Sl     0:26 nautilus -n
+ 1896 ?        Ssl    0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+ 1902 ?        Ssl    0:00 /usr/lib/evolution/evolution-calendar-factory
+ 1907 ?        Ssl    0:12 /usr/lib/udisks2/udisksd --no-debug
+ 1919 ?        Ssl   67:46 /usr/bin/compiz
+ 1929 ?        Ssl    1:09 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+ 1954 ?        Ssl    0:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+ 1958 ?        Ssl    0:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+ 1963 ?        Ssl    0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+ 1967 ?        Ssl    0:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+ 1999 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.10 /org/gtk/gvfs/exec_spaw/0
+ 2023 ?        Sl     0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1902x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1902/2
+ 2031 ?        S      0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+ 2043 ?        Sl     0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1902x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1902/3
+ 2068 ?        Ssl    0:00 /usr/lib/evolution/evolution-addressbook-factory
+ 2079 ?        Sl     0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2068x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2068/2
+ 2093 ?        Ssl    0:03 /usr/lib/fwupd/fwupd
+ 2117 ?        Ssl    0:07 /usr/lib/x86_64-linux-gnu/hud/hud-service
+ 2125 ?        Sl     0:53 sogou-qimpanel
+ 2126 ?        S      0:04 sogou-qimpanel-watchdog
+ 2324 ?        Sl     0:02 zeitgeist-datahub
+ 2334 ?        Ssl    0:01 /usr/bin/zeitgeist-daemon
+ 2342 ?        Ssl    0:01 /usr/lib/zeitgeist/zeitgeist/zeitgeist-fts
+ 2416 ?        Sl     0:06 update-notifier
+ 2452 ?        Sl    70:31 /usr/lib/firefox/firefox
+ 2635 ?        Sl     0:01 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+ 2646 ?        Sl     0:03 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+ 2648 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+ 2689 ?        Sl   101:04 /usr/lib/firefox/plugin-container /usr/lib/flashplugin-installer/libflashplayer.so -greomni /usr/lib/firefox/omni.ja -appomni /usr/lib/firefox/browser/omni.ja -appdir /usr/lib/firefox/browser 2452 true plugin
+ 2898 ?        Sl     0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+ 3263 ?        Sl     0:02 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+ 4485 ?        S      0:00 [kworker/3:0]
+ 4486 ?        S      0:00 [kworker/2:2]
+ 4684 ?        S      0:02 [kworker/1:2]
+ 6192 ?        SN     0:00 /usr/bin/efreetd
+ 6236 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-network --spawner :1.10 /org/gtk/gvfs/exec_spaw/1
+ 6253 ?        Ss     0:03 /sbin/mount.ntfs /dev/sda2 /media/dugeen/DATA -o rw,nodev,nosuid,uid=1000,gid=1000,uhelper=udisks2
+ 6262 ?        Ssl    0:00 /usr/lib/gvfs/gvfsd-metadata
+ 6285 ?        Sl     0:05 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.10 /org/gtk/gvfs/exec_spaw/6
+ 6951 ?        Sl    16:20 /usr/bin/vlc --started-from-file /media/dugeen/DATA/BaiduNetdiskDownload/linux服务器开发二-系统编程视频/day01/视频/12_?建单个子?程02.mp4
+ 7080 pts/1    S      0:00 /bin/bash /usr/bin/atom ./
+ 7082 pts/1    Sl     5:23 /opt/atom/atom --executed-from=/home/dugeen/myGit/LearningOfDugreen/linuxCode --pid=7069 ./
+ 7084 pts/1    S      0:00 /opt/atom/atom --type=zygote --no-sandbox
+ 7108 pts/1    Sl     0:30 /opt/atom/atom --type=gpu-process --no-sandbox --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,23,71 --gpu-vendor-id=0x10de --gpu-device-id=0x139a --gpu-driver-vendor --gpu-driver-version --gpu-driver-date --gpu-secondary-vendor-ids=0x8086 --gpu-secondary-device-ids=0x0416 --service-request-channel-token=B5DA10A983B743114B6CB2239BBCC762 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+ 7120 pts/1    Rl     5:48 /opt/atom/atom --type=renderer --enable-experimental-web-platform-features --no-sandbox --primordial-pipe-token=32B5A9646BC7AF9C6564712C2C846D9B --lang=zh-CN --app-path=/opt/atom/resources/app --node-integration=true --disable-blink-features=Auxclick --hidden-page --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --disable-accelerated-video-decode --service-request-channel-token=32B5A9646BC7AF9C6564712C2C846D9B --renderer-client-id=4 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+ 7190 pts/1    Sl     0:00 /opt/atom/atom --type=renderer --enable-experimental-web-platform-features --no-sandbox --primordial-pipe-token=82F3C141E1C6EB20DDF03B17610E528E --lang=zh-CN --app-path=/opt/atom/resources/app --node-integration=true --hidden-page --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --disable-accelerated-video-decode --service-request-channel-token=82F3C141E1C6EB20DDF03B17610E528E --renderer-client-id=6 --v8-natives-passed-by-fd --v8-snapshot-passed-by-fd
+ 7580 ?        S      0:00 /bin/sh /home/dugeen/下载/WebStorm-172.4155.35/bin/webstorm.sh
+ 7643 ?        Sl    19:25 /home/dugeen/下载/WebStorm-172.4155.35/jre64/bin/java -Xbootclasspath/a:/home/dugeen/下载/WebStorm-172.4155.35/lib/boot.jar -classpath /home/dugeen/下载/WebStorm-172.4155.35/lib/bootstrap.jar:/home/dugeen/下载/WebStorm-172.4155.35/lib/extensions.jar:/home/dugeen/下载/WebStorm-172.4155.35/lib/util.jar:/home/dugeen/下载/WebStorm-172.4155.35/lib/jdom.jar:/home/dugeen/下载/WebStorm-172.4155.35/lib/log4j.jar:/home/dugeen/下载/WebStorm-172.4155.35/lib/trove4j.jar:/home/dugeen/下载/WebStorm-172.4155.35/lib/jna.jar -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/dugeen/java_error_in_WEBIDE_%p.log -XX:HeapDumpPath=/home/dugeen/java_error_in_WEBIDE.hprof -Didea.paths.selector=WebStorm2017.2 -Djb.vmOptionsFile=/home/dugeen/下载/WebStorm-172.4155.35/bin/webstorm64.vmoptions -Didea.platform.prefix=WebStorm com.intellij.idea.Main
+ 7682 ?        S      0:06 /home/dugeen/下载/WebStorm-172.4155.35/bin/fsnotifier64
+ 7937 ?        SLl    4:29 terminology
+ 7942 pts/1    Ss     0:01 /bin/bash
+ 9217 ?        S      0:00 /bin/bash /usr/bin/netease-cloud-music
+ 9218 ?        Sl    57:56 /usr/lib/netease-cloud-music/netease-cloud-music
+ 9226 ?        S      0:00 /usr/lib/netease-cloud-music/netease-cloud-music --type=zygote --lang=en-US --log-file=/home/dugeen/.cache/netease-cloud-music/Cef/console.log --log-severity=disable
+ 9228 ?        S      0:00 /usr/lib/netease-cloud-music/netease-cloud-music --type=zygote --lang=en-US --log-file=/home/dugeen/.cache/netease-cloud-music/Cef/console.log --log-severity=disable
+ 9255 ?        Sl     7:15 /usr/lib/netease-cloud-music/netease-cloud-music --type=zygote --lang=en-US --log-file=/home/dugeen/.cache/netease-cloud-music/Cef/console.log --log-severity=disable
+13222 ?        Ssl    0:00 /usr/lib/packagekit/packagekitd
+14374 ?        Sl    24:34 cairo-dock
+14381 ?        S      0:00 python /usr/lib/x86_64-linux-gnu/cairo-dock/cairo-dock-launcher-API-daemon
+15460 ?        SLl    0:42 terminology
+15466 pts/0    Ss+    0:00 /bin/bash
+16154 ?        S      0:00 [kworker/6:0]
+16212 ?        S      0:00 [kworker/4:0]
+16249 ?        S      0:00 [kworker/5:2]
+16372 ?        Ssl    0:00 /usr/lib/gnome-terminal/gnome-terminal-server
+16378 pts/2    Ss+    0:00 bash
+16699 ?        S      0:00 [kworker/7:1]
+16736 ?        S      0:00 [kworker/5:0]
+16901 ?        S      0:00 [irq/37-mei_me]
+16903 ?        S      0:00 [kworker/3:1]
+16905 ?        S      0:00 [kworker/4:3]
+16961 ?        Ss     0:00 /bin/sh /usr/lib/update-notifier/update-notifier-crash
+16965 ?        Ss     0:00 /usr/sbin/inetd
+16980 ?        Sl     0:00 /usr/lib/update-notifier/system-crash-notification
+17057 ?        S      0:00 [kworker/6:2]
+17393 ?        S      0:00 [kworker/0:0]
+18624 ?        S      0:00 [kworker/1:1]
+18660 ?        S      0:02 [kworker/u16:2]
+19408 ?        S      0:00 [kworker/2:1]
+19573 ?        S      0:02 [kworker/u16:1]
+19710 ?        S      0:00 [kworker/0:2]
+20283 ?        S      0:00 [kworker/7:0]
+20675 ?        S      0:00 [kworker/u16:3]
+20809 ?        S      0:00 [kworker/0:1]
+20848 ?        S      0:00 [kworker/7:2]
+20894 pts/1    R+     0:00 ps ax
+25123 ?        S<     0:00 [bioset]
+25124 ?        S<     0:00 [xfsalloc]
+25125 ?        S<     0:00 [xfs_mru_cache]
+25128 ?        S      0:00 [jfsIO]
+25129 ?        S      0:00 [jfsCommit]
+25130 ?        S      0:00 [jfsCommit]
+25131 ?        S      0:00 [jfsCommit]
+25132 ?        S      0:00 [jfsCommit]
+25133 ?        S      0:00 [jfsCommit]
+25134 ?        S      0:00 [jfsCommit]
+25135 ?        S      0:00 [jfsCommit]
+25136 ?        S      0:00 [jfsCommit]
+25137 ?        S      0:00 [jfsSync]
+25170 ?        S<     0:00 [bioset]
+26521 ?        Sl     4:18 python3 /usr/bin/youdao-dict
+29849 ?        SLl    0:11 terminology
+29860 pts/3    Ss+    0:00 /bin/bash
+29907 ?        Ss     0:00 /usr/sbin/uuidd --socket-activation
+29917 ?        Sl     0:00 /usr/lib/gvfs/gvfsd-http --spawner :1.10 /org/gtk/gvfs/exec_spaw/7
