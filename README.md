@@ -1,6 +1,9 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-10 ～ 2017-11-12
+看书（我还是想你，妈妈）
+
 ### 2017-11-9
 学习linux系统编程
 
