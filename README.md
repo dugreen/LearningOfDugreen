@@ -1,6 +1,10 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-13
+学习Python测试驱动方法
+学习Flask
+
 ### 2017-11-10 ～ 2017-11-12
 看书（我还是想你，妈妈）
 
