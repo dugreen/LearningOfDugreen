@@ -1,6 +1,10 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-14 ~ 2017-11-20
+了解深度学习与图像处理相关内容
+学习Python测试驱动方法
+
 ### 2017-11-13
 学习Python测试驱动方法
 学习Flask
