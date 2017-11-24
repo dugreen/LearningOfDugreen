@@ -1,6 +1,10 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-21~2017-11-24
+看**黑客军团**
+[优酷链接地址](http://www.iqiyi.com/lib/m_208991414.html)
+
 ### 2017-11-14 ~ 2017-11-20
 了解深度学习与图像处理相关内容
 学习Python测试驱动方法
