@@ -4,12 +4,15 @@
 
 #### 官网
 ![Tornado ican](http://www.tornadoweb.org/en/stable/_images/tornado.png)
-[Official Website](http://www.tornadoweb.org/en/stable/#)
-[Official Website](http://www.tornadoweb.cn/)
+[Official Website(.org)](http://www.tornadoweb.org/en/stable/#)
+[Official Website(.vn)](http://www.tornadoweb.cn/)
 
 ---
 #### 源码
 [The source code](https://github.com/tornadoweb/tornado)
 ---
 
-
+### 笔记
+- C10K问题（并发10000个连接）Tornado为了解决这种问题。
+- 服务器兼框架
+- 特点：1.HTTP服务器 2.异步编程 3.WebSockets
