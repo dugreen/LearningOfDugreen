@@ -1,6 +1,14 @@
 ## LearningOfDugreen
 Learning record sharing
 
+
+### 2017-11-28
+看书 看朗读者
+
+### 2017-11-25-2017-11-27
+学习Tornado
+看书
+
 ### 2017-11-21~2017-11-24
 看**黑客军团**
 [优酷链接地址](http://www.iqiyi.com/lib/m_208991414.html)
