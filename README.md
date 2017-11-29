@@ -1,6 +1,9 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-29
+看requests库官网
+[点我到官网](http://docs.python-requests.org/zh_CN/latest/index.html)
 
 ### 2017-11-28
 看书 看朗读者
