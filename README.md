@@ -1,6 +1,9 @@
 ## LearningOfDugreen
 Learning record sharing
 
+### 2017-11-30~2017-12-6
+看美剧**大西洋帝国**
+
 ### 2017-11-29
 看requests库官网
 [点我到官网](http://docs.python-requests.org/zh_CN/latest/index.html)
